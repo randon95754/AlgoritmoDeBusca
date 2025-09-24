@@ -21,7 +21,8 @@ Também irá gerar um executável **test\_c/test\_algorithms**, ao executar ser�
 
 **int busca\_binaria(int n)**  
 A função encontra a **primeira versão errada** em um conjunto de versões de 1 até n, utilizando uma API simulada **isBadVersion(int version)** que retorna **true** se a versão for defeituosa.  
-A função está implementada no arquivo: src\_c/busca\_binaria.c.  
+A função está implementada no arquivo: src\_c/busca\_binaria.c.
+
 **int busca\_seq\_ordenada(int arr\[\], int n, int alvo):**  
 A função busca em um vetor já ordenado, retornando o indice do elemento encontrado ou **\-1** caso não exista o elemento.  
 A função está implementada no arquivo: src\_c/busca\_seq\_orgdenada.c
